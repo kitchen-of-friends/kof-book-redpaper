@@ -2,7 +2,7 @@
 
 朋厨生态由各个认证朋厨公社构成，每个公社带有正整数编号，一号公社为朋厨总社，后续公社为朋厨分社。每个公社可以根据自己社内情况设定组织架构。
 
-<figure><img src=".gitbook/assets/朋厨组织架构设想V1.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/朋厨组织架构设想V1.3.png" alt=""><figcaption></figcaption></figure>
 
 朋厨总社分为治理部、神厨部和协议部三个部分。
 
